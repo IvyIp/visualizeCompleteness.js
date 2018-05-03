@@ -31,14 +31,14 @@ new VCompleteness(".indicator", {"method": "area"});
 The followings are possible options for "method":
 | Parameter | Description | Default |
 | --- | --- | --- |
-| blur |  |  |
-| area | |  |
-| width |  |  |
-| height |  |  |
-| brightness |  |  |
-| darkness |  |  |
-| rotate |  |  |
-| horizontal-move |  |  |
-| vertical-move |  |  |
-| grayscale |  |  |
-| opacity |  |  |
+| blur | ... | ... |
+| area |... | ... |
+| width | ... | ... |
+| height | ... | ... |
+| brightness | ... | ... |
+| darkness | ... | ... |
+| rotate | ... | ... |
+| horizontal-move | ... | ... |
+| vertical-move | ... | ... |
+| grayscale | ... | ... |
+| opacity | ... | ... |
